@@ -1,0 +1,1 @@
+{"name":"Local: dungeon","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\dungeon.cpp","tests":[{"id":1720881462707,"input":"3\n3 2 4\n1 1 1\n10 1 7\n","output":"YES\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\dungeon.cpp","group":"local","local":true}

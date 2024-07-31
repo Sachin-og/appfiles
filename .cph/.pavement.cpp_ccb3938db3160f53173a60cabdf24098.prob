@@ -1,0 +1,1 @@
+{"name":"Local: pavement","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\pavement.cpp","tests":[{"id":1720554648647,"input":"6 6 4\n","output":"4\n"},{"id":1720554736098,"input":"1000000000 1000000000 1","output":"1000000000000000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\pavement.cpp","group":"local","local":true}

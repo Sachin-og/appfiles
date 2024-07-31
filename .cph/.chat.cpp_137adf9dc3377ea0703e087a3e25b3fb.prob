@@ -1,0 +1,1 @@
+{"name":"Local: chat","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\chat.cpp","tests":[{"id":1719657954228,"input":"wjmzbmr\n","output":"CHAT WITH HER!\n"},{"id":1719658013550,"input":"xiaodao","output":"IGNORE HIM!"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\chat.cpp","group":"local","local":true}

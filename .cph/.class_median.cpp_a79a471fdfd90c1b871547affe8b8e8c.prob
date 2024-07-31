@@ -1,0 +1,1 @@
+{"name":"Local: class_median","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\class_median.cpp","tests":[{"id":1719693846888,"input":"3\n1\n1 1\n3\n6 5 4 1 2 3\n5\n13 4 20 13 2 5 8 3 17 16\n","output":"0\n1\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\class_median.cpp","group":"local","local":true}

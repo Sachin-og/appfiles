@@ -1,0 +1,1 @@
+{"name":"Local: cubes","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\cubes.cpp","tests":[{"id":1719670839065,"input":"25\n","output":"4"},{"id":1719671035218,"input":"1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\cubes.cpp","group":"local","local":true}

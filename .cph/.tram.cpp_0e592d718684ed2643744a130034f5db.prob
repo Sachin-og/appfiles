@@ -1,0 +1,1 @@
+{"name":"Local: tram","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\tram.cpp","tests":[{"id":1719656482999,"input":"4\n0 3\n2 5\n4 2\n4 0\n","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\tram.cpp","group":"local","local":true}

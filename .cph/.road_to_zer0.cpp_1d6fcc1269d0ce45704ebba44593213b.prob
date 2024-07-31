@@ -1,0 +1,1 @@
+{"name":"Local: road_to_zer0","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\road_to_zer0.cpp","tests":[{"id":1720880974831,"input":"2\n1 3\n391 555\n0 0\n9 4\n","output":"1337\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\road_to_zer0.cpp","group":"local","local":true}

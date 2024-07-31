@@ -1,0 +1,1 @@
+{"name":"Local: Beautiful_matrix","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\Beautiful_matrix.cpp","tests":[{"id":1718471617433,"input":"0 0 0 0 0\n0 0 0 0 1\n0 0 0 0 0\n0 0 0 0 0\n0 0 0 0 0\n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\Beautiful_matrix.cpp","group":"local","local":true}

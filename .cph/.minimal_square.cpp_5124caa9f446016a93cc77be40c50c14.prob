@@ -1,0 +1,1 @@
+{"name":"Local: minimal_square","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\minimal_square.cpp","tests":[{"id":1720335312017,"input":"8\n3 2\n4 2\n1 1\n3 1\n4 7\n1 3\n7 4\n100 100\n","output":"16\n16\n4\n9\n64\n9\n64\n40000\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\minimal_square.cpp","group":"local","local":true}

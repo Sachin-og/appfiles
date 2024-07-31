@@ -1,0 +1,1 @@
+{"name":"Local: caisaAndPylons","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\caisaAndPylons.cpp","tests":[{"id":1720882372422,"input":"5\n3 4 3 2 4\n","output":"4"},{"id":1720882382815,"input":"3\n4 4 4 ","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\caisaAndPylons.cpp","group":"local","local":true}

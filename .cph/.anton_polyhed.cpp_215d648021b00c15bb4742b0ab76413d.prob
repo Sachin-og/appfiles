@@ -1,0 +1,1 @@
+{"name":"Local: anton_polyhed","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\anton_polyhed.cpp","tests":[{"id":1718504820905,"input":"4\nIcosahedron\nCube\nTetrahedron\nDodecahedron\n","output":"42"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\anton_polyhed.cpp","group":"local","local":true}

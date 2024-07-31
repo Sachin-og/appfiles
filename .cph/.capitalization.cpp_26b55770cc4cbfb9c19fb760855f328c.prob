@@ -1,0 +1,1 @@
+{"name":"Local: capitalization","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\capitalization.cpp","tests":[{"id":1719658286047,"input":"ApPLe\n","output":"ApPLe\n"},{"id":1719658320174,"input":"sachin","output":"Sachin"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\capitalization.cpp","group":"local","local":true}

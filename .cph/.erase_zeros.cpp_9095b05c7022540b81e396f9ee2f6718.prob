@@ -1,0 +1,1 @@
+{"name":"Local: erase_zeros","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\erase_zeros.cpp","tests":[{"id":1719672229573,"input":"3\n010011\n0\n1111000\n","output":"2\n0\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\erase_zeros.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: limak","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\limak.cpp","tests":[{"id":1719657456784,"input":"3 7","output":"3"},{"id":1719657475894,"input":"1 1 ","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\limak.cpp","group":"local","local":true}

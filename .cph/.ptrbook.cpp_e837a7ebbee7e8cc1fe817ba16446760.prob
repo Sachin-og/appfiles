@@ -1,0 +1,1 @@
+{"name":"Local: ptrbook","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\ptrbook.cpp","tests":[{"id":1719697309361,"input":"100\n15 20 20 15 10 30 45\n","output":"6"},{"id":1719697320097,"input":"2\n1 0 0 0 0 0 0\n","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\ptrbook.cpp","group":"local","local":true}

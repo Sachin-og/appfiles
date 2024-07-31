@@ -1,0 +1,1 @@
+{"name":"Local: 32a","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\32a.cpp","tests":[{"id":1722261160940,"input":"5 10\n10 20 50 60 65\n","output":"6"},{"id":1722261211503,"input":"5 1\n55 30 29 31 55\n","output":"6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\32a.cpp","group":"local","local":true}

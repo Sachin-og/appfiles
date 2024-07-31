@@ -1,0 +1,1 @@
+{"name":"Local: lily","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\lily.cpp","tests":[{"id":1720555211114,"input":"1 2\n","output":"1.5000000000000\n"},{"id":1720555224832,"input":"3 5\n","output":"2.6666666666667\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\lily.cpp","group":"local","local":true}

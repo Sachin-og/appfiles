@@ -1,0 +1,1 @@
+{"name":"Local: locks","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\locks.cpp","tests":[{"id":1719705388556,"input":"3","output":"7"},{"id":1719705407335,"input":"4","output":"14"},{"id":1719705486141,"input":"2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\locks.cpp","group":"local","local":true}

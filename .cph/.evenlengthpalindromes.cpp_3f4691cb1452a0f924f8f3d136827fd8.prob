@@ -1,0 +1,1 @@
+{"name":"Local: evenlengthpalindromes","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\evenlengthpalindromes.cpp","tests":[{"id":1720871244417,"input":"746475757","output":"746475757757574647"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\evenlengthpalindromes.cpp","group":"local","local":true}

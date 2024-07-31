@@ -1,0 +1,1 @@
+{"name":"Local: two_int","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\two_int.cpp","tests":[{"id":1720448321127,"input":"6\n5 5\n13 42\n18 4\n1337 420\n123456789 1000000000\n100500 9000\n","output":"0\n3\n2\n92\n87654322\n9150\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\two_int.cpp","group":"local","local":true}

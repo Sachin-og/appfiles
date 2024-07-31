@@ -1,0 +1,1 @@
+{"name":"Local: domino_piling","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\domino_piling.cpp","tests":[{"id":1720459691464,"input":"2 4","output":"4"},{"id":1720459697923,"input":"3 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\domino_piling.cpp","group":"local","local":true}

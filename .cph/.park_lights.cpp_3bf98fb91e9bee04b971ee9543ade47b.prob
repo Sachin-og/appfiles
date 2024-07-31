@@ -1,0 +1,1 @@
+{"name":"Local: park_lights","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\park_lights.cpp","tests":[{"id":1720333176954,"input":"5\n1 1\n1 3\n2 2\n3 3\n5 3\n","output":"1\n2\n2\n5\n8\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\park_lights.cpp","group":"local","local":true}

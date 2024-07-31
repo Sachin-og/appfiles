@@ -1,0 +1,1 @@
+{"name":"Local: card_game","url":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\card_game.cpp","tests":[{"id":1719670382572,"input":"AS\n2H 4C TH JH AD\n","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ACER-\\Desktop\\DOM\\req\\card_game.cpp","group":"local","local":true}
